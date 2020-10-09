@@ -36,6 +36,5 @@ function setup(){
 
 function draw(){
     
-
     myCircle.update();
 }
